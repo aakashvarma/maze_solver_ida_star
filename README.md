@@ -12,3 +12,5 @@ For any arbitrary node “n” the heuristic to reach the Heart h(n) is given by
 $Manhattan Distance + Color Penalty$
 *where, Color Penalty = +5 if the node “n” and goal node is in different colored room
 and Color Penalty = -5 if the node “n” and goal node is in same colored room*
+
+![image](https://github.com/aakashvarma/maze_solver_ida_star/assets/21982616/cefc7353-41f9-4150-9ada-f177a2210f10)
