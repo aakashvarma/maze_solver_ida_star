@@ -1,11 +1,5 @@
-# maze_solver_ida_star
-solving mazes using IDA * algorithm
 
 # Solving mazes using iterative deepening A* algorithm
-
-Created: November 10, 2023 10:30 AM
-Tags: ACI, Algorithm
-Date: November 10, 2023
 
 ## Problem Statement
 
